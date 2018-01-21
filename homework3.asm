@@ -1,5 +1,5 @@
-;Burak KO«Y›–›T 150713851
-TITLE Program Template     (template.asm)
+;Burak KO√áY√ù√ê√ùT 150713851
+TITLE Program homework3     (homework3.asm)
 
 ; Program Description:
 ; Author:
