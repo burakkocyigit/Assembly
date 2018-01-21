@@ -1,2 +1,2 @@
 # Assembly
-Here, there are projects and homework writed in assembly language
+Here, there are projects and homework written in assembly language
