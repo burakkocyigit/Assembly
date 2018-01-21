@@ -1,5 +1,5 @@
-;Burak KO«Y›–›T 150713851
-TITLE Program Template     (template.asm)
+;Burak KO√áY√ù√ê√ùT 150713851
+TITLE Program homework4     (homework4.asm)
 
 ; Program Description:
 ; Author:
@@ -16,7 +16,7 @@ msg1 byte "PLEASE ENTER A NUMBER WHICH IS BETWEEN 0 AND 100:",0
 msg2 byte "THE NUMBER YOU HAVE ENTERED IS BIGGER",0
 msg3 byte "THE NUMBER YOU HAVE ENTERED IS SMALLER",0
 msg4 byte "THE ANSWER IS TRUE",0
-msg5 byte "THE NUMBER YOU HAVE ENTERED IS NEGAT›VE",0
+msg5 byte "THE NUMBER YOU HAVE ENTERED IS NEGAT√ùVE",0
 msg6 byte "YOU HAVE TRIED ",0
 msg7 byte " TIMES",0
 
